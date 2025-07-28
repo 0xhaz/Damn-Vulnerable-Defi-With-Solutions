@@ -78,7 +78,7 @@ An attacker can exploit this flow as follows:
    3. Fee logic is broken
    4. Future usage of the vault becomes impossible unless the owner takes manual action
 
-**Proof of Concept:** Add the following to the `Unstoppable.t.sol` test file
+**Proof of Concept:** Add the following to the `Unstoppable.t.sol` test file.
 
 <details>
 <summary>Code</summary>
